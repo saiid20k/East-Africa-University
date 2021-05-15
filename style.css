@@ -284,7 +284,21 @@ body{
     .menu {
         width: 104% !important;
     }
+    .foot{
+        width: 111% !important;
+    }
 }
+@media (max-width: 400px){
+    .foot{
+        width: 125% !important;
+    }
+} 
+
+@media (max-width: 365px){
+    .foot{
+        width: 130% !important;
+    }
+} 
 
 @media (max-width: 360px) {
     #carouselExampleIndicators{
@@ -301,6 +315,9 @@ body{
         width: 62% !important;
         padding-left: 6px !important;
         padding-top: 25px !important;
+    }
+    .foot{
+        width: 120% !important;
     }
 }
 
