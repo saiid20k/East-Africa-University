@@ -364,7 +364,17 @@ body{
 
 
 
+@media (max-width: 575px){
+    #r-1{
+        WIDTH: 133%;
+    }
+}
 
+@media (max-width: 395px){
+    #r-1{
+        WIDTH: 135%;
+    }
+}
 
 /* //////////// */
 
