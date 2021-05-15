@@ -317,6 +317,13 @@ body{
     }
 }
 
+@media (max-width: 916px){
+    #res{
+        display: none;
+    }
+}
+
+
 
 @media (max-width: 599px) and (min-width: 361px){
     #logo{
