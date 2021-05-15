@@ -377,7 +377,7 @@ body{
 #tog{
     position: absolute;
     top: 90vh;
-    left: 85%;
+    left: 75%;
     z-index: 5;
     position: fixed;
     display: none;
