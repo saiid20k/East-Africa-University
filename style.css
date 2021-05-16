@@ -300,6 +300,12 @@ body{
     }
 } 
 
+@media (max-width: 440px) and (min-width: 400px) {
+    .foot{
+        width: 165% !important;
+    }
+} 
+
 @media (max-width: 360px) {
     #carouselExampleIndicators{
         width: 123% !important;
@@ -385,9 +391,9 @@ body{
 
 
 @media (max-width: 575px){
-    #r-2{
+    /* #r-2{
         WIDTH: 135%;
-    }
+    } */
     .foot{
         width: 135%;
     }
@@ -438,7 +444,7 @@ body{
 #tog{
     position: absolute;
     top: 90vh;
-    left: 70%;
+    left: 90%;
     z-index: 5;
     position: fixed;
     display: none;
@@ -457,3 +463,36 @@ body{
 .nav0 a:hover::after{
     width: 100%;
 }
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 575px){
+    .menu {
+        width: 135%;
+    }
+    #carouselExampleIndicators{
+        width: 135%;
+    }
+    .f-box{
+        width: 135%;
+    }
+    .boxs{
+        padding-left: 220px;
+    }
+    #res2{
+        width: 135% !important;
+    }
+    #back3{
+        width: 135% !important;
+    }
+    #r-5{
+        width: 106%;
+    }
+} 
