@@ -496,3 +496,45 @@ body{
         width: 106%;
     }
 } 
+
+
+
+
+
+@media (max-width: 440px){
+    .menu {
+        width: 165% !important;
+    }
+    #carouselExampleIndicators{
+        width: 165% !important;
+    }
+    .f-box{
+        width: 165%;
+    }
+    .boxs{
+        padding-left: 220px;
+    }
+    #res2{
+        width: 165% !important;
+    }
+    #back3{
+        width: 165% !important;
+    }
+    #r-5{
+        width: 106%;
+    }
+    #r-1{
+        width: 165% !important;
+    }
+}
+
+
+
+
+
+
+@media (max-width: 360px){
+    #logo {
+        width: 52% !important;
+    }
+}
