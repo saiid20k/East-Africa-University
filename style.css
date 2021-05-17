@@ -443,7 +443,7 @@ body{
 
 #tog{
     position: absolute;
-    top: 110vh;
+    top: 88vh;
     left: 90%;
     z-index: 5;
     position: fixed;
@@ -494,6 +494,9 @@ body{
     }
     #r-5{
         width: 106%;
+    }
+    #tog{
+    top: 115vh;
     }
 } 
 
